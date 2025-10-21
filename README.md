@@ -1,16 +1,13 @@
-## Hi there 👋
+### 🧠 Competitive Programming Profiles
 
-<!--
-**melisnatsu/melisnatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.codewars.com/users/melisnatsu">
+    <img src="https://github.r2v.ch/codewars?user=melisnatsu&stroke=%23BB432C" alt="Codewars Profile"/>
+  </a>
+  <a href="https://leetcode.com/melisnatsu/">
+    <img src="https://leetcard.jacoblin.cool/melisnatsu?theme=dark&ext=contest" alt="LeetCode Stats"/>
+  </a>
+  <a href="https://codeforces.com/profile/melisnatsu">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=melisnatsu&theme=tokyonight" alt="Codeforces Stats"/>
+  </a>
+</p>
